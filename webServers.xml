@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc376b58-7209-4341-bdc1-738b688187fd" name="glasses.loc" url="http://glasses.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e6af0bc8-e645-4e4c-9061-11cece0e6242" name="milavitsa-market.loc" url="http://milavitsa-market.loc:8888/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
