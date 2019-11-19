@@ -7,6 +7,9 @@
       <webServer id="e6af0bc8-e645-4e4c-9061-11cece0e6242" name="milavitsa-market.loc" url="http://milavitsa-market.loc:8888/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="51000459-84f5-42a0-bf2a-6ebe72f01c8d" name="karta.loc" url="http://karta.loc:8888">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
